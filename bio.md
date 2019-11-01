@@ -1,1 +1,3 @@
-bio.md
+# Bio
+
+This page will hold a short biography

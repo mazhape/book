@@ -1,1 +1,3 @@
-about.md
+# About page
+
+A bit about our company
